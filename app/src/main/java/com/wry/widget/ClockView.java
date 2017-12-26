@@ -77,6 +77,7 @@ public class ClockView extends View {
         density_hour = ta.getFloat(R.styleable.clock_density_hour, 0.45f);//时针长度比例
         refresh_time = ta.getFloat(R.styleable.clock_refresh_time, 1000);
         ta.recycle();
+
     }
 
 
