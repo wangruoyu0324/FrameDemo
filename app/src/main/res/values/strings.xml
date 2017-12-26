@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FrameDemo</string>
+    <string name="hint_phone">输入想要查询的手机号</string>
+    <string name="submit">提交</string>
+    <string name="login">登录</string>
+    <string name="phone_address">查询号码属地</string>
+
+    <array name="clock">
+        <item>"12"</item>
+        <item>"1"</item>
+        <item>"2"</item>
+        <item>"3"</item>
+        <item>"4"</item>
+        <item>"5"</item>
+        <item>"6"</item>
+        <item>"7"</item>
+        <item>"8"</item>
+        <item>"9"</item>
+        <item>"10"</item>
+        <item>"11"</item>
+    </array>
+</resources>
